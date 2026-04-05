@@ -1,0 +1,4 @@
+.lambda-package/
+deployment.zip
+__pycache__/
+*.pyc
